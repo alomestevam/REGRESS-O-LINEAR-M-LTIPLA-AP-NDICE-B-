@@ -1,4 +1,4 @@
-# REGRESS-O-LINEAR-M-LTIPLA-AP-NDICE-B-
+# REGRESS-O-LINEAR-M-LTIPLA-AP-NDICE-B-Dissertação
 #include <WiFi.h>
 #include <HTTPClient.h>
 #include <Wire.h>
